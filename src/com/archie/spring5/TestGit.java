@@ -5,5 +5,6 @@ public class TestGit {
         System.out.println("Git版本更新测试");
         System.out.println("分支测试");
         System.out.println("主干添加");
+        System.out.println("分支添加");
     }
 }
